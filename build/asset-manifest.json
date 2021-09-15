@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.be35d358.chunk.css",
+    "main.js": "./static/js/main.df3fffe4.chunk.js",
+    "main.js.map": "./static/js/main.df3fffe4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e6545879.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e6545879.js.map",
+    "static/js/2.7c825f5a.chunk.js": "./static/js/2.7c825f5a.chunk.js",
+    "static/js/2.7c825f5a.chunk.js.map": "./static/js/2.7c825f5a.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.be35d358.chunk.css.map": "./static/css/main.be35d358.chunk.css.map",
+    "static/js/2.7c825f5a.chunk.js.LICENSE.txt": "./static/js/2.7c825f5a.chunk.js.LICENSE.txt",
+    "static/media/Stylem.css": "./static/media/thermometer-in-snow_0066f46bde.bc3718cb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6545879.js",
+    "static/js/2.7c825f5a.chunk.js",
+    "static/css/main.be35d358.chunk.css",
+    "static/js/main.df3fffe4.chunk.js"
+  ]
+}
