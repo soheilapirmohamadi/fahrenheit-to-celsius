@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(98, 95, 241);
+  background-color: rgb(6, 5, 44);
 }
 img {
   filter: grayscale(80%);
@@ -16,8 +16,8 @@ img {
   border: solid 2px;
   width: 500px;
   height: 40px;
-  color: rgb(19, 13, 73);
-  background-color: rgb(98, 95, 241);
+  color: rgb(255, 255, 255);
+  background-color: rgb(39, 36, 187);
   border-radius: 10px;
   font-size: 20px;
 }
