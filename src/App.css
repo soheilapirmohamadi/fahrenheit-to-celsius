@@ -14,8 +14,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #9e9e9e;
+  min-height: 100;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -23,7 +23,17 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+/* ​@media screen and (min-width: 400px) {
+  body {
+    background-color: lightgreen;
+  }
+}
 
+@media screen and (min-width: 400px) {
+  body {
+    background-color: lavender;
+  }
+} */
 .App-link {
   color: #61dafb;
 }

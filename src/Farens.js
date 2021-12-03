@@ -12,7 +12,7 @@ this.props.handelchange(event.target.value);
     }
       render() {
         return (
-          <div>
+          <div id="faren">
             <label  id="lab">{scales[this.props.type]}:</label>
             <div style={{display:"flex",justifyContent:"center"}}>
             <input id="in" value={this.props.temprecher} onChange={this.handelchange} type="text"/>
